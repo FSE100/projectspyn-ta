@@ -8,3 +8,5 @@ if num1 < num2 && num2 < num3
 else
     disp ('Not Ascending');
 end
+
+% test
